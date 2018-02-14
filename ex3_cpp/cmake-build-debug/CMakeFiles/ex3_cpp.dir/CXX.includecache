@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex3_cpp/Complex.cpp
+Complex.h
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex3_cpp/Complex.h
+cmath
+-
+limits
+-
+iostream
+-
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex3_cpp/Complex.h
+string
+-
+iostream
+-
+limits
+-
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex3_cpp/Matrix.hpp
+iostream
+-
+vector
+-
+Complex.h
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex3_cpp/Complex.h
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex3_cpp/ParallelChecker.cpp
+iostream
+-
+eigen3/Eigen/Dense
+-
+chrono
+-
+stack
+-
+Matrix.hpp
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex3_cpp/Matrix.hpp
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex3_cpp/timeChecker.cpp
+iostream
+-
+eigen3/Eigen/Dense
+-
+chrono
+-
+stack
+-
+Matrix.hpp
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex3_cpp/Matrix.hpp
+

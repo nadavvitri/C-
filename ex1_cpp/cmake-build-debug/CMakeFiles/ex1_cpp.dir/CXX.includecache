@@ -1,0 +1,50 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/Arenstorf.cpp
+Arenstorf.h
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/Arenstorf.h
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/Arenstorf.h
+iosfwd
+-
+cmath
+-
+iomanip
+-
+ArenstorfPoint.h
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/ArenstorfPoint.h
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/ArenstorfPoint.cpp
+ArenstorfPoint.h
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/ArenstorfPoint.h
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/ArenstorfPoint.h
+iosfwd
+-
+ostream
+-
+iomanip
+-
+iostream
+-
+
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/Ex1.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+regex
+-
+ArenstorfPoint.h
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/ArenstorfPoint.h
+Arenstorf.h
+/cygdrive/c/Users/nadav vitri/CLionProjects/ex1_cpp/Arenstorf.h
+

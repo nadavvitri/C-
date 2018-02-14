@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ex1_cpp.dir/Ex1.cpp.o CMakeFiles/ex1_cpp.dir/Arenstorf.cpp.o CMakeFiles/ex1_cpp.dir/ArenstorfPoint.cpp.o  -o ex1_cpp.exe -Wl,--out-implib,libex1_cpp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
